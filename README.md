@@ -1,6 +1,6 @@
-# flutter_default_bloc_pattern
+# Flutter Default Bloc Pattern
 
-A new Flutter project.
+This is a starter flutter project with block design pattern.
 
 ## Getting Started
 
